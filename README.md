@@ -4,10 +4,12 @@ A Multiplatform 'Atari Style' Retro Game.
 
 Escape from evil Hamster's xD Can you stay alive ?
 
-[img]https://i.imgur.com/dfHxv5w.png[/img]
+© 2011 - GECA Soft
 
-[img]https://i.imgur.com/HVSGLCz.png[/img]
-
+<p align="center">
+  <img src="https://i.imgur.com/dfHxv5w.png" >
+  <img src="https://i.imgur.com/HVSGLCz.png" >
+</p>
 
 Available for:
 
