@@ -14,11 +14,19 @@ Escape from evil Hamster's xD Can you stay alive ?
 Available for:
 
 GCW Zero
+
 Gp2x F-100/F-200
+
 Gp2x Wiz
+
 Cananoo
+
 OpenPandora
+
 Microsoft Windows
+
 Microsoft X-Box
+
 Nintendo Wii (Homebrew Channel)
+
 Sony PSP
