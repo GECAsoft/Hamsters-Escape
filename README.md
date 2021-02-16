@@ -4,9 +4,9 @@ A Multiplatform 'Atari Style' Retro Game.
 
 Escape from evil Hamster's xD Can you stay alive ?
 
-[img]https://i.imgur.com/dfHxv5w.png[\img]
+[img]https://i.imgur.com/dfHxv5w.png[/img]
 
-[img]https://i.imgur.com/HVSGLCz.png[\img]
+[img]https://i.imgur.com/HVSGLCz.png[/img]
 
 
 Available for:
